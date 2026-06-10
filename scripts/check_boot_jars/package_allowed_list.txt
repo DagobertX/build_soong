@@ -297,6 +297,9 @@ vendor.oplus.*
 com.oneplus.*
 com\.thundersoft\..*
 vendor.oneplus.*
+com\.color\..*
+oplus\..*
+vendor\.oplus\..*
 
 # LMOFreeform
 com\.libremobileos\..*
